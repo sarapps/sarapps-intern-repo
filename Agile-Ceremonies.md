@@ -1,0 +1,29 @@
+Brief Notes on the Research & Learn Section:
+
+* Agile ceremonies: Structured regular meetings that keep a team stya aligned, share progress, solve blockers early, and improve the way they work. The purpose is for more effective communication and collaboration, as well as each individual continuously improves.  
+* Daily stand-ups: A short 10-15 minute check-in where each person shares what they have done, what they’re next goals are, and any blockers they experienced. Provides visibility to the supervisor and ensures alignment with deadlines.  
+* Sprint planning (scrum): Happens at the start of the sprint (every 1-2 weeks) where the team decides what work will be done, what the priorities are, and who owns what. Breaks big work into small deliverables. The purpose is to create clear goals and shared understanding between teammates.  
+* Continuous Prioritisation (Kanban): Instead of sprints, work flows more continuously and priorities can change more easily. The purpose is to provide flexibility and a quick response to changing needs.  
+* Retrospectives happen at the end of the sprint where the team reflects on what went well, what didn't go well, and what to improve next time. The purpose is continuous improvement based on real experience, not assumptions.  
+* Backlog Refinement: Ongoing process to keep the backlog tidy. The team reviews tasks by clarifying requirements, re-prioritises items,  splits big items into smaller ones, and removes irrelevant work.
+
+Reflection:
+
+1. How do agile ceremonies help with communication and alignment?
+
+Agile ceremonies help communication because they create regular check-ins instead of waiting until a deadline date. I’m at the stage where I’m still working through my onboarding tasks and GitHub issues, so the main goal is just to update the team on where I’m at and to understand what everyone else is working on. Weekly marketing stand-ups show the overall pace of the team, so I can see whether I should catch up or continue at my current pace. Daily stand-ups are especially helpful for me right now because I get one-on-one time with my supervisor. I can solve problems directly, understand priorities better, and get clearer instructions instead of guessing. This makes the work feel more manageable since I’m doing mostly independent tasks at the moment.
+
+2. Which ceremony do you think is most important for your role, and why?
+
+At this stage, the most important ceremony for my role is the daily stand-up, because I receive direct feedback and support while I’m still learning how everything works. We aren’t doing full campaign collaboration with the rest of the marketing interns yet, so having personal guidance helps me adjust faster and understand expectations clearly.
+
+However, once we move into real campaign work and cross-team collaboration (with the rest of the marketing team e.g., content, social media interns), sprint planning and retrospectives will probably become more important for my role. Sprint planning will make sure that the work complements one another instead of being isolated pieces. It is useful for aligning messaging, tone, content timelines, and dependencies between roles. Retrospectives will also matter later as I’ll need honest feedback from teammates on what worked, what didn’t, and what needs to be changed.
+
+So daily stand-ups are most important right now while I’m still learning and adjusting, but sprint planning and retrospectives become more important when I’m contributing to part of the whole marketing team. This is because coordination and shared learning are key to giving successful campaigns.
+
+Tasks:
+
+1) Observing how updates were shared in a stand-up meeting: The weekly stand-ups are led by Andrea, who opens the conversation and then goes around the group. Each person answers a question related to their current progress, any blockers, or anything they need support with. The tone feels casual and friendly, but the structure is still clear: one question and one person answers, moving to the next. Updates are usually shared quickly instead of long explanations. Some interns share their screen to show their exact GitHub issues so the update is more precise. The goal is to keep things moving, stay transparent, and let everyone hear what the others are working on. In the weekly marketing stand-up, the main focus was everyone updating their progress with onboarding GitHub issues. A lot of the blockers were technical, so the group highlighted issues to Jeremy which he gave them guidance on how to fix them.. Andrea also clarified the timeline that we should aim to complete our issues within four weeks, so that the marketing work (content \+ campaign tasks) can begin properly the following week once onboarding is complete.  
+2) Even though this wasn’t a formal retrospective, there were a few moments where the group reflected on the process so far: What went well was discussed with most interns progressing through their issues steadily and many people sharing blockers instead of hiding issues. What needs improvement was also communicated with some of the instructions around the task was confusing as well as some mismatches with timing and scheduling that needed to be clarified. What I learnt was that others had many technical blockers which made me realise others were learning as well and it made me feel less isolated. The timeline clarification helped me understand pace and made me more conscious of the things I needed to do to stay on track.  
+3) One change I could make to improve collaborations: I think I was slightly awkward and shy during the weekly stand-up with Andrea because I joined a few minutes late. So one change I could make is preparing my stand up updates before the meeting so I can contribute more clearly and contribute to the discussion with ease and confidence.
+
